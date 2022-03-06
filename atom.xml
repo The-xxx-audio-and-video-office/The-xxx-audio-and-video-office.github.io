@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://moniki-p.github.io</id>
     <title>Moniki的小站[]~(￣▽￣)~*</title>
-    <updated>2022-03-06T04:49:28.474Z</updated>
+    <updated>2022-03-06T06:59:22.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://moniki-p.github.io"/>
     <link rel="self" href="https://moniki-p.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://moniki-p.github.io/images/avatar.png</logo>
     <icon>https://moniki-p.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Moniki的小站[]~(￣▽￣)~*</rights>
+    <entry>
+        <title type="html"><![CDATA[“西园”人失掉自信力了吗？]]></title>
+        <id>https://moniki-p.github.io/post/xi-yuan-ren-shi-diao-zi-xin-li-liao-ma/</id>
+        <link href="https://moniki-p.github.io/post/xi-yuan-ren-shi-diao-zi-xin-li-liao-ma/">
+        </link>
+        <updated>2022-03-06T06:58:00.000Z</updated>
+        <content type="html"><![CDATA[<p>注意：本文纯属杜撰，与真正的西园（西园寺）或其他事物没有任何关系！！不要过度想象与引申！！</p>
+<p>从公开和表面上的东西看起来：几年之前，我们总说着“道法高尚”，是事实；不久后便不称赞所谓的“道法”了，只期望着“诏书”，也是事实。现在是既不信道法，也不望“诏书”，改为一味加压统治，横行暴政了——却这也是事实。  于是有人感慨：“西园”人失掉自信力了</p>
+<p>如果单从表面现象上而言，自信事实上是早就失掉，甚至于没有的。先前信“道法”，信“希望”，后来信“诏书”，都从来没有相信过“自己”。如果这也算一种“信”，那也只能说“西园”人曾有过“他信力”，自从连“诏书”也救不过之后，便把这他信力也给失掉了。</p>
+<p>若是把这“他信力”失掉了，就会疑。一个转身，说不定也就能发展出“自信力”，倒也是一条正路。但不幸的是终究是玄虚起来了。信“道法”“希望”，毕竟还是实的东西，“诏书”也渺茫，不过这还可以让人很快便意识到它的不可靠。一到加压统治、横行暴政，可就无用至极了，看着十分有益，再掩上自己的耳朵，便可以更长久的麻醉着自己。</p>
+<p>“西园&quot;人正发展着自欺力。</p>
+<p>“自欺”也并非是现在的新东西，现在只不过是矛盾愈发明显，将要笼罩一切罢了。然而，在这笼罩之下，除了掩耳的“西园”人之外，我们还有并未失掉“自信力”的“西园”人。</p>
+<p>我们自古以来，就有埋头苦干的人，有拼命硬干的人，有为民请命的人，有舍身求法的人……即使被关在牢笼中，也掩盖不住他们身上的光辉，这就是“西园”的脊梁。</p>
+<p>这一类的人们，就是现在却也为有多少？他们有确信，不自欺；他们在前仆后继的战斗。尽管总被迫害和击杀，甚至可能消灭于黑暗却仍有人站了起来，继续前进着。只不过在黑暗中，不为人所知罢了。可他们，特别是有真能力改变的人，还是太少了。但是，说“西园”人失掉了自信力，指一部分人即可，倘若加于全体，便是赤裸裸的污蔑。</p>
+<p>要论“西园”人，只从表面上的“雪”看过去是万万不能的，却要深入地下，看看真实的筋骨和脊梁。自信力的存在与否，宰相的文章是不足为据的，要自己深入人民群众中去，到地底下看看。</p>
+<p>九月二十五日</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://moniki-p.github.io/post/about/</id>
@@ -23,51 +41,6 @@
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
 <h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
 <h2 id="联系我呀">📬 联系我呀</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://moniki-p.github.io/post/hello-gridea/</id>
-        <link href="https://moniki-p.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
-<p>Here's a simple footnote,<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> and here's a longer one.<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></p>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p>This is the first footnote. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
-</li>
-<li id="fn2" class="footnote-item"><p>Here's one with multiple paragraphs and code.</p>
-<p>Indent paragraphs to include them in the footnote.</p>
-<p><code>{ my code }</code></p>
-<p>Add as many paragraphs as you like. <a href="#fnref2" class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>
 ]]></content>
     </entry>
 </feed>
