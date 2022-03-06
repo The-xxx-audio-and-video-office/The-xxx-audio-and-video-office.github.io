@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://moniki-p.github.io</id>
     <title>Moniki的小站[]~(￣▽￣)~*</title>
-    <updated>2022-02-12T13:40:40.766Z</updated>
+    <updated>2022-03-06T04:44:35.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://moniki-p.github.io"/>
     <link rel="self" href="https://moniki-p.github.io/atom.xml"/>
@@ -55,6 +55,19 @@
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
+<p>Here's a simple footnote,<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> and here's a longer one.<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>This is the first footnote. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>Here's one with multiple paragraphs and code.</p>
+<p>Indent paragraphs to include them in the footnote.</p>
+<p><code>{ my code }</code></p>
+<p>Add as many paragraphs as you like. <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
 ]]></content>
     </entry>
 </feed>
