@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://moniki-p.github.io</id>
     <title>Moniki的小站[]~(￣▽￣)~*</title>
-    <updated>2022-03-10T08:38:35.959Z</updated>
+    <updated>2022-03-13T12:35:15.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://moniki-p.github.io"/>
     <link rel="self" href="https://moniki-p.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://moniki-p.github.io/images/avatar.png</logo>
     <icon>https://moniki-p.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Moniki的小站[]~(￣▽￣)~*</rights>
+    <entry>
+        <title type="html"><![CDATA[杂谈#1 | 关于曲推]]></title>
+        <id>https://moniki-p.github.io/post/za-tan-1-or-guan-yu-qu-tui/</id>
+        <link href="https://moniki-p.github.io/post/za-tan-1-or-guan-yu-qu-tui/">
+        </link>
+        <updated>2022-03-13T10:57:17.000Z</updated>
+        <content type="html"><![CDATA[<p><s>“曲推™”是******于中华地区的合法商标，其权利归中国与其他国家各自的所有人持有</s></p>
+<p>简要地说，曲推就是曲推，或者说“推曲子”，是一种将冷门的曲子<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>向他人推荐的行为。在传媒学中，这可能代表一种非良性的创作环境，而从亚文化的角度看待，这属于文化的基础设施，是一种流量“再分配”从而修正。</p>
+<p>好吧我知道你们听不懂所以还是说得简单一点。“曲推”是我们的一项新计划。如上文的介绍，我们即将向各位推荐一些曲子，他们或热门或冷门，但其大部分都有被推荐的价值。</p>
+<p>通常来说，我们推荐的曲子基于“中文VOCALOID”进行推荐。偶尔可能会来几期SV或者其他音乐作品。</p>
+<p>一般情况下一周的五六日是我们的更新时间，因学业原因可能暂停。</p>
+<p>hope u enjoy</p>
+<hr>
+<p align="right">网站 https://moniki-p.github.io</p>
+<p align="right">网易云 @ColorfulX</p>
+<p align="right">Github @moniki_p</p>
+<p align="right">邮箱 wikidot-cn@outlook.com</p>
+<p align="right">欢迎关注</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>此点存疑。 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://moniki-p.github.io/post/about/</id>

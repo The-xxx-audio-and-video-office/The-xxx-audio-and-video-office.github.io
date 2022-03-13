@@ -50,7 +50,6 @@
                     })();
                 </script>
                 
-        <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11/lib/typed.min.js"></script>
 </head>
 
 <body>
@@ -163,67 +162,123 @@
 </script>
             <div class="main">
                 <div class="container">
-                    <div class="intro">
-                        <div class="avatar">
-                            <a href="https://moniki-p.github.io"><img src="https://moniki-p.github.io/images/avatar.png?v=1647174905648"></a>
-                        </div>
-                        <div class="nickname">
-                            Moniki
-                        </div>
-                        <div class="description">
-                            <span id="subtitle">
-                                一个地方，一群人。
+                    <article class="post-wrap">
+                        <header class="post-header">
+                            <h1 class="post-title">
+                                模板
+                            </h1>
+                            
+                                <!--en-->
+                                <div class="post-meta en">
+                                    Author:
+                                    <a itemprop="author" rel="author" href="/">
+                                        Moniki的小站[]~(￣▽￣)~*
+                                    </a>
+                                    <span class="post-time">
+                                Date: <a href="#">2022-03-13</a>
                             </span>
+                                    <span class="post-readtime">Reading Time:<a
+                                    href="#">0.0
+                                    mins</a></span>
+                                    <span class="post-words">words:<a href="#">1</a></span>
+                                    
+                                            Views:
+                                            <span data-hk-page="current"> - </span>
+                                            
+                                </div>
+                                
+                        </header>
+                        
+                        <div class="post-content">
+                            <p>5555</p>
+
                         </div>
-                        <div class="links">
+                        
+                            <div class="post-toc">
+                                
+                            </div>
                             
                                 
+                                    
+                                        <!--en-->
+                                        <section class="post-copyright en">
+                                            <p class="copyright-item">
+                                                <span>Author:</span>
+                                                <span>Moniki的小站[]~(￣▽￣)~*</span>
+                                            </p>
+
+                                            <p class="copyright-item">
+                                                <span>Permalink:</span>
+                                                <span><a href="https://moniki-p.github.io/post/mo-ban/">https://moniki-p.github.io/post/mo-ban/</a></span>
+                                            </p>
+
+                                            <p class="copyright-item">
+                                                <span>License:</span>
+                                                <span>MIT License</span>
+                                            </p>
+                                        </section>
                                         
-                                
-                                        
-                                
-                                        
-                                
-                                        
-                                
-                                        
-                                
-                                        
-                                
-                                        
-                                
-                                        
-                                
-                                        
-                                
-                                        
-                        </div>
-                    </div>
+                                                
+                                                    
+                                                        <!-- Share-->
+                                                        <span style="margin-right:15px">
+                                                    <i class="post-share"></i>
+                                                    <span>Share:</span>
+                                                        <a title="QR Code" target="_blank" href="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://moniki-p.github.io/post/mo-ban/"><i class="fa fa-qrcode"></i></a>
+                                                        <a title="QQ" target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://moniki-p.github.io/post/mo-ban/&sharesource=qzone&title=模板&pics=https://moniki-p.github.io/images/avatar.png?v=1647174905648&summary="><i class="fa fa-qq"></i></a>
+                                                        <a title="Weibo" target="_blank" href="https://service.weibo.com/share/share.php?url=https://moniki-p.github.io/post/mo-ban/&sharesource=weibo&title=模板 + " - " + &pic="https://moniki-p.github.io/images/avatar.png?v=1647174905648 "><i class="fa fa-weibo "></i></a>
+                                                        
+                                                                </span>
+                                                                <!--en-->
+                                                                <section class="post-tags en ">
+                                                                    <div>
+                                                                        <span>Tag(s):</span>
+                                                                        <span class="tag ">
+                        
+                                                            </span>
+                                                                    </div>
+                                                                    <div>
+                                                                        <a href="javascript:window.history.back();">back</a>
+                                                                        <span>&dot;</span>
+                                                                        <a href="#">home</a>
+                                                                    </div>
+                                                                </section>
+                                                                
+                                                                                <!---->
+                                                                                <section class="post-nav">
+                                                                                    
+                                                                                            
+                                                                                </section>
+                    </article>
                 </div>
+                
+                    
+                        <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container" style="width: 100%;max-width: 780px;margin: auto;"></div>
+
+<script>
+    var gitalk = new Gitalk({
+        clientID: '3617c98ce527cfdf2935',
+        clientSecret: 'd127db755230f13754ec547306d5f87cc05dc96e',
+        repo: 'moniki-p.github.io',
+        owner: 'moniki-p',
+        admin: ['moniki-p'],
+        id: (location.pathname).substring(0, 49), // Ensure uniqueness and length less than 50
+        distractionFreeMode: false // Facebook-like distraction free mode
+    })
+
+    gitalk.render('gitalk-container')
+</script>
+                            
+                                        
+                                            
             </div>
     </div>
-
-</body>
-<script>
-    // type 
-    var typed = new Typed("#subtitle", {
-        strings: ['一个地方，一群人。', '', ''],
-        startDelay: 10,
-        typeSpeed: 200,
-        loop: true,
-        backSpeed: 100,
-        showCursor: true
-    });
-    //head title
-    var titleTime;
-    document.addEventListener("visibilitychange", function() {
-        document.hidden ? (document.title = "\uD83D\uDE25" + OriginTitile, clearTimeout(titleTime)) : (document.title = "\uD83D\uDE1D" + OriginTitile, titleTime = setTimeout(function() {
-            document.title = OriginTitile
-        }, 2E3))
-    });
-    var OriginTitile = document.title;
-</script>
-
+    </div>
+    </div>
+    
     <div id="player"></div>
     
         <footer id="footer" class="footer">
@@ -515,5 +570,10 @@
                     console.log("\n %c \u26a1Theme:Chic Author's Blog:https://blog.itjoker.cn  Write By ITJoker  \n\n", "color: #ffffff; background: rgba(49, 49, 49, 0.85); padding:5px 0;border-radius:5px;");
                 </script>
                 
+        </div>
+</body>
+<script>
+    scroll();
+</script>
 
 </html>
