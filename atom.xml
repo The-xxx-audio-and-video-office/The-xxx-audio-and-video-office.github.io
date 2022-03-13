@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://moniki-p.github.io</id>
     <title>Moniki的小站[]~(￣▽￣)~*</title>
-    <updated>2022-03-13T12:35:15.630Z</updated>
+    <updated>2022-03-13T13:18:06.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://moniki-p.github.io"/>
     <link rel="self" href="https://moniki-p.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://moniki-p.github.io/images/avatar.png</logo>
     <icon>https://moniki-p.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Moniki的小站[]~(￣▽￣)~*</rights>
+    <entry>
+        <title type="html"><![CDATA[杂谈#2 | 什么是VOCALOID/中文V家？]]></title>
+        <id>https://moniki-p.github.io/post/za-tan-2-or-shi-me-shi-vocaloidzhong-wen-v-jia/</id>
+        <link href="https://moniki-p.github.io/post/za-tan-2-or-shi-me-shi-vocaloidzhong-wen-v-jia/">
+        </link>
+        <updated>2022-03-13T12:48:23.000Z</updated>
+        <content type="html"><![CDATA[<p>事实上，这是一个较为复杂的问题。VOCALOID/中文V家是一个复杂的地方。以下信息仅供参考。</p>
+<h2 id="关于调教">关于调教</h2>
+<p>我建议参考<a href="www.vsqx.top">vsqx调教站</a>（www.vsqx.top）。这里有非常丰富的可参考资料。不仅有工程，还有教程的集合。是初学者学习的极好渠道。<br>
+另外，<a href="https://space.bilibili.com/592058">侨汣</a>（https://space.bilibili.com/592058）空间内的教程系统地讲解了V4编辑器内主要的参数。是极好的资料。<br>
+另外，在<a href="www.bilibili.com">b站</a>（www.bilibili.com）同样有许多资料，直接搜索即可。</p>
+<h3 id="关于资讯分析">关于资讯&amp;分析</h3>
+<p>此处，我建议阅读<a href="https://space.bilibili.com/156489">中文VOCALOID周报</a>（https://space.bilibili.com/156489）和<a href="https://space.bilibili.com/323657769">半月刊</a>（https://space.bilibili.com/323657769）（顺带一提，瓜果瓜秧电视台还有针对与P主和V家创作者的采访，可以作为很好的参考资料）这两个渠道可以了解中V里面比较新的曲子和资讯。</p>
+<p>另外，圈内的一些知名度较高的人，比如@ilem(in bilibili) @人形兎(in bilibili)之类的，各个歌手和Vsinger的官号资讯可供参考。</p>
+<p>分析……在<a href="www.bilibili.com">b站</a>（www.bilibili.com）上直接搜“中文VOCALOID”“VOCALOID”“中V”本身就可以获得很多的信息。人的话推荐<a href="https://space.bilibili.com/26182751">455</a>（https://space.bilibili.com/26182751）和<a href="https://space.bilibili.com/357741291">龙猫</a>（https://space.bilibili.com/357741291）（两位大佬都基本脱离了中V的写作，此处祝他们生活愉快）</p>
+<p>最后，b站和<a href="https://zh.moegirl.org.cn">萌娘百科</a>（https://zh.moegirl.org.cn）都是很好的参考渠道。直接搜索即可获得许多信息。</p>
+<p>祝各位在中V的海洋中玩得愉快。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[动态 | 记录生活]]></title>
+        <id>https://moniki-p.github.io/post/dong-tai-or-ji-lu-sheng-huo/</id>
+        <link href="https://moniki-p.github.io/post/dong-tai-or-ji-lu-sheng-huo/">
+        </link>
+        <updated>2022-03-13T12:39:07.000Z</updated>
+        <content type="html"><![CDATA[<p>这是一片地区，旨在记录我们生活中的细节与重要信息（以<strong>粗体字</strong>显示）但愿后人看到他们时，能在细碎的信息中找到我们存在过的痕迹</p>
+<p>2022.03.13   20:50</p>
+<p>我们开始了。</p>
+<p>无数感想在心中荡漾。只能希望我们可以坚持下来。作为主要的媒体力量，对中文V家可能只是沧海一粟，但对个人来说，这是一次里程碑。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杂谈#1 | 关于曲推]]></title>
         <id>https://moniki-p.github.io/post/za-tan-1-or-guan-yu-qu-tui/</id>
@@ -23,11 +54,11 @@
 <p>一般情况下一周的五六日是我们的更新时间，因学业原因可能暂停。</p>
 <p>hope u enjoy</p>
 <hr>
-<p align="right">网站 https://moniki-p.github.io</p>
-<p align="right">网易云 @ColorfulX</p>
-<p align="right">Github @moniki_p</p>
-<p align="right">邮箱 wikidot-cn@outlook.com</p>
-<p align="right">欢迎关注</p>
+<h6 id="p-alignright网站-httpsmoniki-pgithubiop"><p align="right">网站 https://moniki-p.github.io</p></h6>
+<h6 id="p-alignright网易云-colorfulxp"><p align="right">网易云 @ColorfulX</p></h6>
+<h6 id="p-alignrightgithub-moniki_pp"><p align="right">Github @moniki_p</p></h6>
+<h6 id="p-alignright邮箱-wikidot-cnoutlookcomp"><p align="right">邮箱 wikidot-cn@outlook.com</p></h6>
+<h6 id="p-alignright欢迎关注p"><p align="right">欢迎关注</p></h6>
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
