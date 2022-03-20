@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://moniki-p.github.io</id>
     <title>Moniki的小站[]~(￣▽￣)~*</title>
-    <updated>2022-03-13T13:50:33.718Z</updated>
+    <updated>2022-03-20T07:54:59.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://moniki-p.github.io"/>
     <link rel="self" href="https://moniki-p.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://moniki-p.github.io/images/avatar.png</logo>
     <icon>https://moniki-p.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Moniki的小站[]~(￣▽￣)~*</rights>
+    <entry>
+        <title type="html"><![CDATA[曲推#2 | ilem的“冷门”曲]]></title>
+        <id>https://moniki-p.github.io/post/qu-tui-2-or-ilem-de-leng-men-qu/</id>
+        <link href="https://moniki-p.github.io/post/qu-tui-2-or-ilem-de-leng-men-qu/">
+        </link>
+        <updated>2022-03-20T07:29:14.000Z</updated>
+        <content type="html"><![CDATA[<p>https://mp.weixin.qq.com/s?__biz=Mzg4MjY4OTM1Mg==&amp;mid=2247483727&amp;idx=1&amp;sn=f421070ca981e5d037b7cbf129b40611&amp;chksm=cf539568f8241c7e5b7f13cbfa7512eb3df3c58262b5291784fa9c3226e21ab3cf6ac9df7dbf&amp;token=1874247640&amp;lang=zh_CN#rd</p>
+<p>1.<iframe src="//player.bilibili.com/player.html?aid=18426282&bvid=BV18W411v7Cx&cid=30073508&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+<p>2.<iframe src="//player.bilibili.com/player.html?aid=44255110&bvid=BV1vb411Y7A6&cid=77490147&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+<p>3.<iframe src="//player.bilibili.com/player.html?aid=3031443&bvid=BV15s41127yg&cid=4756540&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+<p>4.<iframe src="//player.bilibili.com/player.html?aid=28381447&bvid=BV1xs41137Vm&cid=49092799&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+<p>5.<iframe src="//player.bilibili.com/player.html?aid=3709035&bvid=BV1Ys411X7vP&cid=5942072&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杂谈#2 | 什么是VOCALOID/中文V家？]]></title>
         <id>https://moniki-p.github.io/post/za-tan-2-or-shi-me-shi-vocaloidzhong-wen-v-jia/</id>
